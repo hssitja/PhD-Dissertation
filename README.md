@@ -1,7 +1,7 @@
 # PhD-Thesis
 
-The thesis is divided in three chapter, each one constituted of one essay. Each essay contains its own dataframes and empirical analysis.
+The thesis is divided in three chapters constituted of an essay each.
 
-Most data was collected from datalakes. The downloaded data is available as .csv files.
+There are separate dataframes and empirical analysis for each essay. Most data was collected from datalakes. The downloaded data is available as .csv files.
 
-If there's any doubt or general comment, feel free to email me: henrique.sitja@gmail.com
+The analyses were built to be replicable. Therefore, if there's any problem, doubt or general comment, feel free to email me: henrique.sitja@gmail.com
